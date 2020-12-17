@@ -9,3 +9,11 @@ body {
     align-items: center;
     flex-direction: column;
 }
+
+.todo-list {
+    list-style-type: none;
+}
+
+.todo-item {
+    margin: 0.5rem;
+}
